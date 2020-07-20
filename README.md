@@ -1,2 +1,2 @@
-# pushoverShare
-A bunch of scripts to use Pushover as a link/text sharing service.
+# PushoverShare
+A bunch of scripts to use Pushover to share links/text/files between devices.
